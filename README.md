@@ -1,4 +1,4 @@
 # git_practise
-this is a normal practise file.
+this is a github 
 
 # how is your day
